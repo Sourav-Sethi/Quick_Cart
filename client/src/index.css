@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+* {
+  font-family: "Outfit", sans-serif;
+}
+
+/* Updated theme colors */
+@theme {
+  --color-primary: #FFD700;           /* Bright Yellow */
+  --color-primary-dull: #e6c200;      /* Slightly muted Yellow */
+  --color-background: #FFFFFF;        /* White */
+  --color-text: #333333;              /* Dark text */
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-text);
+}
+
+/* Hide scrollbar */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30" height="24" viewBox="0 0 30 24" xmlns="http://www.w3.org/2000/svg">
+  <!-- Location Pin Outline -->
+  <path d="M15,23 C15,23 5,18 5,10 C5,5.02944 9.47715,1 15,1 C20.52285,1 25,5.02944 25,10 C25,18 15,23 15,23 Z" 
+        stroke="#4CAF50" 
+        stroke-width="2" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"
+        fill="none"/>
+  
+  <!-- Circle Inside Pin -->
+  <circle cx="15" cy="10" r="3" fill="#4CAF50"/>
+</svg>

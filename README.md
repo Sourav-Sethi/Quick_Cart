@@ -18,21 +18,22 @@ server/     # Node.js + Express backend
 database/   # MongoDB schemas and models
 
 Installation & Setup:
-# Clone the repository
+Clone the repository
 git clone https://github.com/yourusername/quickcart.git
 
-# Navigate to the client and install dependencies
+Navigate to the client and install dependencies
 cd client
 npm install
 
-# Navigate to the server and install dependencies
+Navigate to the server and install dependencies
 cd ../server
 npm install
 
-# Run both client and server (using separate terminals)
+Run both client and server (using separate terminals)
 cd client
 npm run dev
 cd ../server
-npm run dev
+npm run dev'
+
 Skills Demonstrated:
 Full Stack Development • MERN • REST API • Authentication • Payment Gateway • MongoDB • React Hooks • State Management
